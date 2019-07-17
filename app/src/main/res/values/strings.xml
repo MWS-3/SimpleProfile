@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="profile2">Emilia Anochirionye</string>
+    <string name="about1">THE ANDELA LEARNING COMMUNITY</string>
+    <string name="about2">A community empowering the next generation
+    of African technology leaders.
+    </string>
+    <string name="about3">Join us!</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="track">Andriod</string>
+    <string name="country">Nigeria</string>
+    <string name="email">emygreat1912@yahoo.com</string>
+    <string name="phone">0034567263</string>
+    <string name="slack">Emmy</string>
+</resources>
